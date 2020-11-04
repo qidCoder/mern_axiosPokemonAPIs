@@ -9,3 +9,7 @@ When this is clicked, output the names of all 807 Pokemon using the Pokemon API.
 
  Create a button to fetch the Pokemon
  Output the names of all 807 Pokemon
+
+
+Main version has a button, state in the App.js, and uses Axios to fetch the API.
+Version-2 does not have a button and instead uses Axios within useEffect to render the API on page load
